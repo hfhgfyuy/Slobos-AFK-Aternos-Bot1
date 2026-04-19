@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "TuTiBot24Hours",
+    "username": "TuTiBot24/7Server",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "vito16.aternos.me",
     "port": 47932,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -78,7 +78,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
