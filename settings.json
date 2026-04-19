@@ -1,12 +1,12 @@
 {
-  "name": "AFK_Bot TuTu",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "TuTu_BotAFK24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "vito16.aternos.me:47932",
+    "ip": "vito16.aternos.me",
     "port": 47932,
     "version": "1.21",
     "try-creative": false
