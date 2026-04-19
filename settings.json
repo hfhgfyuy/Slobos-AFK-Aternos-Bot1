@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vito16.aternos.me",
+    "ip": "shiner.aternos.host:47932",
     "port": 47932,
     "version": "1.21",
     "try-creative": false
